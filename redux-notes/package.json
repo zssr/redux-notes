@@ -1,0 +1,30 @@
+{
+  "name": "redux-notes",
+  "version": "0.0.1",
+  "description": "code snippets from learning Redux docs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zssr/redux-notes.git"
+  },
+  "scripts": {
+    "exe": "babel-node"
+  },
+  "author": "zssr",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "5.3.1",
+    "babel-core": "^5.6.15",
+    "babel-loader": "^5.2.2",
+    "bluebird": "^2.9.34",
+    "css-loader": "^0.15.1",
+    "file-loader": "^0.8.4",
+    "node-libs-browser": "^0.5.2",
+    "react": "0.14.2",
+    "react-redux": "4.0.0",
+    "redux": "v3.0.2",
+    "webpack": "^1.10.0"
+  },
+  "devDependencies": {
+    "react-hot-loader": "^1.2.7"
+  }
+}
